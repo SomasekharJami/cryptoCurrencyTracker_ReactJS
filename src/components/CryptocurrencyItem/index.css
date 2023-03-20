@@ -1,0 +1,34 @@
+/* Write your CSS code here */
+.listItem {
+  max-width: 80vw;
+  height: 10vh;
+  color: #ffffff;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+.logoCon {
+  display: flex;
+  align-items: center;
+}
+.valueCon {
+  display: flex;
+  align-items: center;
+}
+.logoH {
+  font-size: 3vh;
+  margin-left: 10px;
+  text-align: right;
+}
+.logoP {
+  font-size: 3vh;
+  width: 10vw;
+  margin-left: 10px;
+  text-align: right;
+}
+.logo {
+  height: 5vh;
+}

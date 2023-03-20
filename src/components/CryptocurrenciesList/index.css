@@ -1,0 +1,46 @@
+/* Write your CSS code here */
+.innerCon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.mainH {
+  color: #00e7ff;
+  font-size: 6vh;
+  text-align: center;
+}
+.mainImg {
+  height: 55vh;
+}
+.listCon {
+  width: 80vw;
+  border: 3px solid #00e7ff;
+  border-radius: 8px;
+}
+.titleList {
+  max-width: 80vw;
+  height: 10vh;
+  background-color: #092e33;
+  color: #ffffff;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+.titCurCon {
+  display: flex;
+  align-items: center;
+}
+.titListP {
+  font-size: 4vh;
+  width: 10vw;
+  text-align: right;
+}
+.titListH {
+  font-size: 4vh;
+  width: 10vw;
+  text-align: left;
+}
